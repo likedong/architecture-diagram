@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T06:04:28.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="chpr4VZNwGILrJbrBry5" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T06:41:20.028Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="HcoZxAyLbxZO7Ko_-o9d" version="15.7.3" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="3531" dy="1328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -393,10 +393,10 @@
         <mxCell id="QAFNWtgdx4BfWXEss5s8-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QAFNWtgdx4BfWXEss5s8-195" target="QAFNWtgdx4BfWXEss5s8-197">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QAFNWtgdx4BfWXEss5s8-195" value="字段解析" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="QAFNWtgdx4BfWXEss5s8-195" value="视图" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="2750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QAFNWtgdx4BfWXEss5s8-197" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="QAFNWtgdx4BfWXEss5s8-197" value="仪表板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="2750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
